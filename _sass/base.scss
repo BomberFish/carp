@@ -2,8 +2,8 @@ body {
     background-color: #08060a;
     font-family: var(--font-body);
     margin: auto;
-    max-width: 60ch;
-    color: #fff;
+    max-width: 75ch;
+    color: #f3eafa;
     width: 100vw;
     padding: 0;
     display: flex;
@@ -33,7 +33,10 @@ blockquote {
 article {
     background-color: #141016;
     min-height: 100vh;
-    padding-inline: 24px;
+    padding-inline: 36px;
+    padding-bottom: 38px;
+    margin-bottom: 18px;
+    border-radius: 0px 0px 18px 18px;
 }
 
 a {
@@ -43,6 +46,7 @@ a {
 h1,h2,h3 {
     font-family: var(--font-serif);
     font-weight: bold;
+    color: #fefdff;
 }
 
 h1 {
@@ -58,4 +62,12 @@ h2 {
 h3 {
     font-size: 24px;
     font-weight: bold;
+}
+
+pre {
+    margin: 0;
+    padding: 16px;
+    border: 1px solid #362e3a;
+    background-color: #08060a;
+    border-radius: 18px;
 }

