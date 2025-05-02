@@ -1,0 +1,21 @@
+body {
+    background-color: #141016;
+    font-family: var(--font-body);
+    margin: auto;
+    max-width: 70ch;
+    color: #fff;
+}
+
+a {
+    color: #db82ff;
+}
+
+h1,h2 {
+    font-family: var(--font-serif);
+    font-weight: bold;
+}
+
+h1 {
+    font-size: 72px;
+    margin-bottom: 12px;
+}
